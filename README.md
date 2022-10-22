@@ -5,12 +5,14 @@ A comparative analysis was performed using different scikit learn classifiers.
 
 # The code has been divided into the following sections:
 ## Dataset exploration 
+Using pandas library
 ## Dataset visualization 
-## Classification algorithms using Scikit learn
+Using seaborn and matplotlib
+## Classification algorithms 
+Using Scikit learn
 ### This includes the following classfiers:
 - Linear SVC
 - Random Forests
 - Decision Tree
 - KNN
 - Logistic Regression
-- Random Forest 	97.98
